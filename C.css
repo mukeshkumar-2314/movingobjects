@@ -1,0 +1,50 @@
+fieldset{
+    height: 90px;
+    }
+    .track img{
+    position: absolute;
+    height: 70px;
+    width: 80px;
+    }
+    .choose img{
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    padding-right: 50px;
+    }
+    .choose button{
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 80px;
+    }
+    .choose{
+    padding-left: 400px;
+    }
+    .track{
+    background-color: rgb(255, 255, 255);
+    }
+    .trapezoid {
+    border-bottom: 50px solid rgb(218, 16, 16);
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 125px;
+    margin-left: 600px;
+    }
+    .circle {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(107, 0, 128);
+    border-radius: 50%;
+    display: inline-block;
+    }
+    .tyre {
+    margin-right: -10px;
+    }
+    .rectangle {
+    height: 60px;
+    width: 277px;
+    background-color: rgb(107, 94, 4);
+    margin-left: 520px;
+    }
+    
